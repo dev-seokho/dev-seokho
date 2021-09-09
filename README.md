@@ -1,7 +1,11 @@
 <h3 align="center"> 💻 Backend Developer 💻 </h3>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=loyu78&show_icons=true&theme=cobalt&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=loyu78&show_icons=true&theme=cobalt&repo=github-readme-stats" />
+</a>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
 
 <p align="center"> 🍏 Languages 🍏 </p>
