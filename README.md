@@ -1,4 +1,5 @@
-### 💻 Backend Developer 💻
+<p align="center"> ### 💻 Backend Developer 💻 </p>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyu78&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"> Languages </p>
