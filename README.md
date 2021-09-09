@@ -1,5 +1,8 @@
 <h3 align="center"> 💻 Backend Developer 💻 </h3>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=loyu78-cmyk&show_icons=true&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <div align='center'>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </div>
