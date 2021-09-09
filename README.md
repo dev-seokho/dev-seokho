@@ -1,8 +1,7 @@
 <h3 align="center"> 💻 Backend Developer 💻 </h3>
 
-<p aligin="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+
 
 
 <p align="center"> 🍏 Languages 🍏 </p>
