@@ -1,11 +1,9 @@
 <h3 align="center"> 💻 Backend Developer 💻 </h3>
 
-https://github-readme-stats.vercel.app/api?username=loyu78-cmyk&show_icons=true&theme=cobalt
-
 
 <div align='center'>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api?username=loyu78-cmyk&show_icons=true&theme=cobalt" />
+  <img src="https://github-readme-stats.vercel.app/api?username=loyu78&show_icons=true&theme=cobalt" />
   </a>
 </div>
 
