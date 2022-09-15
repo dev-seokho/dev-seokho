@@ -10,7 +10,7 @@
 <p align="center"> 🍏 Languages 🍏 </p>
 
 <p align="center">
-  <img src="https://shields.io/badge/Java-brightgreen?style=flat-square&logo=Java&logoColor=white"/></a>
+  <img src="https://shields.io/badge/Java-brightgreen?style=flat-square&logo=JAVA&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a> 
 
