@@ -12,7 +12,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/></a> 
-  <img src="https://shields.io/badge/-brightgreen-brightgreen?style=flat-square&logo=java&logoColor=white"/></a>
+  <img src="https://shields.io/badge/java-brightgreen?style=flat-square&logo=java&logoColor=white"/></a>
 
 </p>
 
@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=spring&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Spring-4FC08D?style=flat-square&logo=spring&logoColor=white"/></a>
 </p>
 
 <p align="center"> 🍑 DBMS 🍑 </p>
